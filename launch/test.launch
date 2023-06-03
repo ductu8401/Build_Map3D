@@ -1,0 +1,5 @@
+<launch>
+    <!--- LeGO-LOAM -->    
+    <node pkg="lego_loam" type="test"    name="test"    output="screen"/>
+    <node pkg="lego_loam" type="test2"    name="test2"    output="screen"/>
+</launch>

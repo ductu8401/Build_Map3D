@@ -1,0 +1,5 @@
+<launch>
+    <arg name="bagfile" default="/home/tu2022/Downloads/2022-08-16-12-56-47.bag"/>
+    <arg name="rate" default="0.5"/>
+<node pkg="rosbag" type="play" name="play" args="-r $(arg rate) --clock $(arg bagfile)" output="screen" respawn="false"/>
+</launch>

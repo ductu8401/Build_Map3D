@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/tu2022/Desktop/build_map3d/devel -DCMAKE_INSTALL_PREFIX=/home/tu2022/Desktop/build_map3d/install -G Unix Makefiles
