@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/e34dd076-8d92-477e-862c-ca8e6a6222b6" />
 </p>
+<p align="center">
+  <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/68d97f32-287a-4725-96b8-01fbcc2d6638" />
+</p>
 <p>Besides, the map 3D of the yard of Hanoi University of Industry was also built by me using the method LeGO-LOAM. Below is a picture of the real environment taken from a satellite:</p>
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/97a660fa-dc1b-43d1-ae8e-c61f04c95034" />
@@ -16,7 +19,6 @@
 <p>Result</p>
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/c27a6833-33d2-4ad0-bebd-23953e465110" />
-  <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/68d97f32-287a-4725-96b8-01fbcc2d6638" />
 </p>
 
 <h3>References </h3>
