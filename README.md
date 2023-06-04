@@ -19,7 +19,7 @@
 </p>
 <h3>References </h3>
 <p> 
-  <a href = "https://ieeexplore.ieee.org/document/8594299"> our <em> LeGO-LOAM </em> paper </a>
+  <a href = "https://ieeexplore.ieee.org/document/8594299"> <em> LeGO-LOAM </em> paper: </a>
 </p>
 <pre>
   <code>
