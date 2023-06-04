@@ -9,5 +9,8 @@
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/e34dd076-8d92-477e-862c-ca8e6a6222b6" />
 </p>
+<p>Besides, the map 3D of the yard of Hanoi University of Industry was also built by me using the method LeGO-LOAM:</p>
+
+
 
 
