@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/97a660fa-dc1b-43d1-ae8e-c61f04c95034" />
 </p>
-<p>Result</p>
+<p>Result:</p>
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/c27a6833-33d2-4ad0-bebd-23953e465110" />
 </p>
