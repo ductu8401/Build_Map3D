@@ -16,7 +16,9 @@
 <p>Result</p>
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/c27a6833-33d2-4ad0-bebd-23953e465110" />
+  <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/68d97f32-287a-4725-96b8-01fbcc2d6638" />
 </p>
+
 <h3>References </h3>
 <p> 
   <a href = "https://ieeexplore.ieee.org/document/8594299"> <em> LeGO-LOAM </em> paper: </a>
