@@ -17,9 +17,9 @@
 <p align="center">
   <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/c27a6833-33d2-4ad0-bebd-23953e465110" />
 </p>
-<p> Thanks you for citting
-  <a href = "https://ieeexplore.ieee.org/document/8594299"> "our" <em> LeGO-LOAM </em> "paper" </a>
-  if you use any of this code:
+<h3>References </h3>
+<p> 
+  <a href = "https://ieeexplore.ieee.org/document/8594299"> our <em> LeGO-LOAM </em> paper </a>
 </p>
 <pre>
   <code>
