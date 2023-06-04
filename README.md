@@ -2,7 +2,7 @@
 <h3>Enviroment</h3>
 <p>Environmental corridor 2nd floor, building A10, Hanoi University of Industry: </p>
 <p align="center">
-  <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/3c83a32a-5279-456e-9401-e786e0b65c3f" />
+  <img src="https://github.com/ductu8401/Build_Map3D/assets/119555693/287f41b7-0426-4c87-923d-5bc6a23d6d97" />
 </p>
 <h3>Map 3D</h3>
 <p>Map 3D is built by method LeGO-LOAM:</p>
